@@ -17,5 +17,8 @@ dependencies = [
     "multiprocess",
 ]
 
+[options.packages.find]
+where = "src"
+
 [tool.setuptools.package-data]
 "deep_correlations_trng.data" = ["*.bin"]
