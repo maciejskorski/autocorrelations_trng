@@ -14,7 +14,7 @@ Clone the repository and install as a python package. For instance, on Colab do:
 
 ## Data Files
 
-Data files are stored in a separate folder and accessed by a utility function `read_bits`:
+Data files are stored in the [separate folder](src/deep_correlations_trng/data) and accessed by a utility function `read_bits`:
 
 ```python
 try:
