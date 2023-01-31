@@ -1,2 +1,2 @@
-# deep_correlations_trng
-Study of deep correlations in (pseudo) random bits.
+# Deep Correlations in TRNGs
+Study of high-order correlations in (pseudo) random bits.
