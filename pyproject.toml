@@ -21,4 +21,4 @@ dependencies = [
 where = "src"
 
 [tool.setuptools.package-data]
-"deep_correlations_trng.data" = ["*.bin","*/*/bin"]
+"deep_correlations_trng.data" = ["*.bin","*/*.bin"]
