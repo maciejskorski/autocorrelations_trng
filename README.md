@@ -58,4 +58,10 @@ shown in the figure below
 
 ![autocorrelation function estimated from 256M of bits](src/deep_correlations_trng/autocorr.png)
 
-See [notebook experiments](notebooks) for more details.
+## Experiments
+
+
+See [notebook experiments](notebooks) for more details. In particular:
+
+* [Demo on Autocorrelation](src/deep_correlations_trng/autocorr.png)
+* [Comparison of Extraction Techniques](src/deep_correlations_trng/autocorr.png)
