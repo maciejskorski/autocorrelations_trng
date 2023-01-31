@@ -36,7 +36,7 @@ Data can be analyzed in various ways. Below we estimate the autocorrelation func
 import numpy as np
 from scipy.stats import pearsonr
 
-lags = np.arange(0,10)*50
+lags = np.arange(0,20)*25
 
 results = []
 for lag in lags:
@@ -57,3 +57,5 @@ ax.set_ylabel('autocorrelation')
 shown in the figure below
 
 ![autocorrelation function estimated from 256M of bits](src/deep_correlations_trng/autocorr.png)
+
+See [notebook experiments](notebooks) for more details.
