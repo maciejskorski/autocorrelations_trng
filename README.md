@@ -63,5 +63,5 @@ shown in the figure below
 
 See [notebook experiments](notebooks) for more details. In particular:
 
-* [Demo on Autocorrelation](src/deep_correlations_trng/autocorr.png)
-* [Comparison of Extraction Techniques](src/deep_correlations_trng/autocorr.png)
+* [Demo on Autocorrelation](notebooks/autocorrelation.ipynb)
+* [Comparison of Extraction Techniques](notebooks/extractors_comparison.ipynb)
