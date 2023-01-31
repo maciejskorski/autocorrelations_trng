@@ -1,5 +1,5 @@
-# Deep Correlations in TRNGs
-Study of high-order correlations in (pseudo) random bits.
+# Auto-Correlations in TRNGs
+Study of correlations in (pseudo) random bits.
 
 ## Installation
 
