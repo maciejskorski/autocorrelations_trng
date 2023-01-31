@@ -30,7 +30,7 @@ bits = read_bits(data_file)
 
 ## Analyse Data
 
-Data can be analyzed in various ways. Below we estimate the autocorrelation function
+Data can be analyzed in various ways. Below we estimate the autocorrelation function from 256M bits
 
 ```python
 import numpy as np
