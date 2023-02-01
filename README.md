@@ -64,4 +64,5 @@ shown in the figure below
 See [notebook experiments](notebooks) for more details. In particular:
 
 * [Demo on Autocorrelation](notebooks/autocorrelation.ipynb)
+# [Pseudorandomness from drift](notebooks/drift_pseudorandomness.ipynb)
 * [Comparison of Extraction Techniques](notebooks/extractors_comparison.ipynb)
