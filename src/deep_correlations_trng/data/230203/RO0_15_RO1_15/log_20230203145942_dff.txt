@@ -1,0 +1,22 @@
+Motherboard vers.: 9
+Motherboard sub vers.: 5
+
+HEX Status register        0058D59D00000952
+
+    HEX Daughterboard version: 09.52
+    HEX mux: 0
+    HEX jit freq: 59D
+    HEX ref freq: 58D
+
+    STR frequency: 143.7 MHz
+    ref frequency: 142.1 MHz
+
+    BIN mux_data: 00
+        mode: dff
+HEX Status2 register       00000F0F00000DFF
+
+    osc1 type: RO
+    DEC osc1 length: 15
+
+    osc0 type: RO
+    DEC osc0 length: 15
