@@ -1,0 +1,22 @@
+Motherboard vers.: 9
+Motherboard sub vers.: 5
+
+HEX Status register        4F35D36500000952
+
+    HEX Daughterboard version: 09.52
+    HEX mux: 4
+    HEX jit freq: 365
+    HEX ref freq: 35D
+
+    STR frequency: 86.9 MHz
+    ref frequency: 86.1 MHz
+
+    BIN mux_data: 00
+        mode: dff
+HEX Status2 register       0FC3F000FF652736
+
+    osc1 type: STR
+    DEC osc1 length: 240
+
+    osc0 type: STR
+    DEC osc0 length: 0
